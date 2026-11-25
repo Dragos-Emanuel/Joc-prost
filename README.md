@@ -1,4 +1,37 @@
-# Nu primesc notă pentru că nu am pus titlu și descriere
+<div align="center">
+  <h1>JOC PROST</h1>
+  <p><i>Un action-roguelike 2D inspirat din Hades, construit în C++20.</i></p>
+
+  <img src="https://img.shields.io/badge/C%2B%2B-20-blue.svg" alt="C++20">
+  <img src="https://img.shields.io/badge/Build-CMake-orange.svg" alt="CMake">
+  <img src="https://img.shields.io/badge/Gen-Action%20Roguelike-crimson.svg" alt="Gen">
+
+<br><br>
+  <!-- Decomentează linia de mai jos după ce adaugi un screenshot în folderul assets/ -->
+  <!-- <img src="assets/gameplay.png" alt="Preview Joc Prost" width="750"> -->
+</div>
+
+---
+  
+## Despre Joc
+**Joc Prost** este un roguelike 2D inspirat din *Hades*, în care controlezi un erou ce încearcă să scape dintr-o serie de camere pline de monștri. Fiecare încercare (*run*) este diferită: după ce elimini inamicii dintr-o cameră, primești o binecuvântare (*Boon*) care îți modifică stilul de luptă până la înfruntarea cu Boss-ul final.
+
+### Mecanici Principale
+* **Camere succesive:** Progresie din cameră în cameră, cu valuri de inamici din ce în ce mai dificili.
+* **Sistem de Boons:** Upgrade-uri primite între camere (atacuri mai rapide, proiectile multiple, dash îmbunătățit, damage suplimentar).
+* **Luptă dinamică:** Combinație între atacuri de aproape, abilități de la distanță și eschive (*dash*).
+
+* ## Controale
+| Tastă / Buton | Acțiune |
+| :--- | :--- |
+| `W A S D` | Mișcare |
+| `Click Stânga` | Atac principal |
+| `Click Dreapta` | Abilitate specială |
+| `Space` | Dash |
+| `Esc` | Pauză |
+
+---
+
 
 ### Folosiți template-ul corespunzător grupei voastre!
 
